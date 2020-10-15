@@ -1,6 +1,6 @@
 T<p align="center">
-  <a href="https://github.com/gitasep">
-    <img src="https://github-readme-stats.vercel.app/api?username=gitasep&title_color=222&text_color=777">
+  <a href="https://github.com/gitsava">
+    <img src="https://github-readme-stats.vercel.app/api?username=gitsava&title_color=222&text_color=777">
   </a>
 </p>
 
