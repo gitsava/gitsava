@@ -8,6 +8,6 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/daily/cho2?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/daily/gitsava">
   </a>
 </p>
