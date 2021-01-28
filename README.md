@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://badges.pufler.dev">
+  <a href="https://github.com/gitsava">
     <img src="https://badges.pufler.dev/commits/daily/gitsava">
   </a>
 </p>
