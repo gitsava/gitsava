@@ -7,7 +7,5 @@
 <p align="center">
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/gitsava">
-    <img src="https://badges.pufler.dev/commits/daily/gitsava">
-  </a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </p>
