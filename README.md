@@ -7,5 +7,5 @@
 <p align="center">
   <strong>Check out my work below!</strong>
   <br><br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![gitsava's(Asep) GitHub stats] <img src="https://github-readme-stats.vercel.app/api?username=gitsava&show_icons=true&theme=radical">
 </p>
